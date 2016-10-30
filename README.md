@@ -26,6 +26,7 @@ Preporuka: instalirati distribuciju Anacondu (koja sadrži SciPy).
 Prije uporabe obavezno pročitati README.txt!
 
 Pregled rezultata (više u dokumentaciji ili IPython bilježnici):
+(izvor slike: AFW baza lica)
 
 <img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680/4237203680_00_color.jpg"></img>
 <br/>
