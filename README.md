@@ -27,15 +27,15 @@ Prije uporabe obavezno pročitati README.txt!
 
 Pregled rezultata (više u dokumentaciji ili IPython bilježnici):
 
-<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680_00_color.jpg"></img>
+<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680/4237203680_00_color.jpg"></img>
 <br/>
-<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680_01_canny.jpg"></img>
+<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680/4237203680_01_canny.jpg"></img>
 <br/>
-<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680_02_parts_borders.jpg"></img>
+<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680/4237203680_02_parts_borders.jpg"></img>
 <br/>
-<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680_05_parts_best_points.jpg"></img>
+<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680/4237203680_05_parts_best_points.jpg"></img>
 <br/>
-<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680_06_best_points.jpg"></img>
+<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680/4237203680_06_best_points.jpg"></img>
 <br/>
-<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680_08_success_values.jpg"></img>
+<img src="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/RU_Projekt_IMG_OUT/4237203680/4237203680_08_success_values.jpg"></img>
 <br/>
