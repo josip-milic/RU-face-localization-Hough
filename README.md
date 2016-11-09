@@ -17,7 +17,7 @@ Datum: **22.01.2016.**<br>
 ###Opis projekta:
 ####Detekcija i lokalizacija lica na slici temeljem generalizirane Houghove transformacije.
 
-Više informacija u <a href="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/paper/RU201516_Pro_Dok_Detekcija_i_lokalizacija_lica_na_temelju_generalizirane_Houghove_transformacije.pdf">dokumentaciji.</a>
+Više informacija u <a href="https://github.com/josip-milic/RU-face-localization-Hough/blob/master/Dokumentacija/RU201516_Pro_Dok_Detekcija_i_lokalizacija_lica_na_temelju_generalizirane_Houghove_transformacije.pdf">dokumentaciji.</a>
 
 Programski jezik (više informacija u dokumentaciji, poglavlje 4): Python 2.7
 Korištene vanjske biblioteke: NumPy, IPython, Matplotlib, SciPy.misc, skimage.feature.
